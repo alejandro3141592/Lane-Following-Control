@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="lane_following" type="LaneDetectionOnVideoWithROS.py" name="LaneDetectionOnVideoWithROS"/>
+    <node pkg="lane_following" type="SendComand2AMR.py" name="SendComand2AMR" output="screen"/>
+
+</launch>
