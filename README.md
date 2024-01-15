@@ -2,7 +2,8 @@
 
 As a part of the project to develop an Autonomous Mobile Robot, a lane follower was implemented. Nevertheless, because on the campus where the car is supposed to drive, there are a large number of different scenarios, and in a lot of them is complicated to implement a  line follower with simple line detection algorithms, I decided to implement a Pix2Pix Architecture, which consists in generating an image from a conditioned input, which is also an image, and in this way achieving to obtain an image with the lines drawn.
 
-
+In the following diagram, you can see how the implementation was made.
+First the D
 ![Implementation](https://github.com/alejandro3141592/Lane-Following-Control/assets/132953325/9d2a5cef-8133-4f11-92e5-b7250c7a3f92)
 
 ![Captura de pantalla 2024-01-14 232141](https://github.com/alejandro3141592/Lane-Following-Control/assets/132953325/46410cee-f376-4531-96a7-e8924b21e8a5)
