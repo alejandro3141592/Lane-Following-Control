@@ -22,9 +22,12 @@ After the training process, the model was evaluated with several pre-recorded vi
 ![Lineas Dibujadas ‐ Hecho con Clipchamp](https://github.com/alejandro3141592/Lane-Following-Control/assets/132953325/67504e5e-9a81-43af-a700-f3a601e6975f)
 
 Finally, the output of the Pix2Pix model was used in a line detection algorithm, here is a video of the whole environment running:
-https://github.com/alejandro3141592/Lane-Following-Control/assets/132953325/889dcc8a-f6f7-4b98-88a3-ff7282423232
+![Enviroment ‐ Hecho con Clipchamp (3)](https://github.com/alejandro3141592/Lane-Following-Control/assets/132953325/ba55ca40-7ca5-4fb2-8aa1-2d96ecc387a2)
+
 
 And here is a video of the results obtained from testing the algorithm in the vehicle:
-![Enviroment ‐ Hecho con Clipchamp (3)](https://github.com/alejandro3141592/Lane-Following-Control/assets/132953325/ba55ca40-7ca5-4fb2-8aa1-2d96ecc387a2)
+
+
+https://github.com/alejandro3141592/Lane-Following-Control/assets/132953325/0dae15c1-b133-405d-bc16-5b9eca6c432e
 
 
